@@ -3,8 +3,9 @@
 
 ### Overview
 This console-based banking management project was developed for our first semester project to practically apply our understanding of the C/C++ programming languages. The system uses a file-based storage system to persist data across sessions.
-We worked upon
- 
+
+We worked upon this project as a group where my work mainly involved implementing:
+- Account management, Transaction, Credit card information and navigating around the project.
 
 ### Features
 1. **Account Management**
@@ -12,7 +13,7 @@ We worked upon
    - Update account details.
    - Delete accounts.
 
-2. **Fund Transfer**
+2. **Transactions**
    - Transfer funds between accounts.
    - Validate transactions using account details and passwords.
 
